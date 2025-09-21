@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS system file
+.DS_Store
+
+# JetBrains IDE (e.g., PyCharm)
+.idea/
+
+# VS Code settings
+.vscode/
