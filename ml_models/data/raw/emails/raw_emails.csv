@@ -1,79 +1,17 @@
-email_text,sender,subject,label
-"URGENT: Your PayPal account has been suspended due to suspicious activity. 
-                Click here immediately to verify your account: http://paypal-verify.tk/login
-                Failure to act within 24 hours will result in permanent account closure.
-                Account Security Team",security@paypal-alerts.com,URGENT: Account Suspended - Immediate Action Required,phishing
-"Congratulations! You have won $1,000,000 in the Microsoft Lottery!
-                To claim your prize, please provide your banking details and send $500 processing fee.
-                Contact: winner@microsoft-lottery.tk",lottery@microsoft-winner.com,"YOU WON $1,000,000!!!",phishing
-"Your Amazon account will be closed tomorrow unless you update your payment information.
-                Click here: http://amazon-account-update.ml/payment
-                Amazon Customer Service",noreply@amazon-security.net,Account Closure Notice - Update Required,phishing
-"FINAL NOTICE: Your bank account has been compromised. 
-                Verify your identity immediately: http://secure-bank-verify.cf/login
-                Enter your username, password, and SSN to prevent account closure.",security@bank-alerts.org,FINAL NOTICE: Account Compromised,phishing
-"You have received a secure document. Click to download:
-                http://document-viewer.tk/download?id=12345
-                This link expires in 2 hours.",documents@secure-share.net,Secure Document Delivery,phishing
-"Thank you for your recent order. Your package has been shipped and will arrive within 3-5 business days.
-                Track your package: [legitimate tracking link]
-                Order #12345
-                Customer Service Team",orders@company.com,Your Order Has Shipped,legitimate
-"Your monthly statement is now available online.
-                Login to your account to view your statement.
-                If you have questions, please contact us at 1-800-123-4567.
-                Best regards, Customer Service",statements@bank.com,Monthly Statement Available,legitimate
-"Welcome to our newsletter! Here are this week's top articles:
-                1. 10 Tips for Better Productivity
-                2. New Product Launch Announcement
-                3. Customer Success Story
-                Unsubscribe anytime by clicking here.",newsletter@company.com,Weekly Newsletter - Week of Jan 15,legitimate
-"Your appointment has been confirmed for January 20th at 2:00 PM.
-                Location: 123 Main Street, Suite 100
-                Please arrive 15 minutes early and bring a valid ID.
-                To reschedule, please call 555-0123.",appointments@clinic.com,Appointment Confirmation,legitimate
-"Your password has been successfully changed.
-                If you did not make this change, please contact support immediately.
-                For security purposes, please do not reply to this email.
-                Account Security Team",noreply@company.com,Password Changed Successfully,legitimate
-"Your monthly statement is now available online.
-                Login to your account to view your statement.
-                If you have questions, please contact us at 1-800-123-4567.
-                Best regards, Customer Service",statements@bank.com,Monthly Statement Available,legitimate
-"Welcome to our newsletter! Here are this week's top articles:
-                1. 10 Tips for Better Productivity
-                2. New Product Launch Announcement
-                3. Customer Success Story
-                Unsubscribe anytime by clicking here.",newsletter@company.com,Weekly Newsletter - Week of Jan 15,legitimate
-"You have received a secure document. Please click to download:
-                http://document-viewer.tk/download?id=12345
-                This link expires in 2 hours.",documents@secure-share.net,Secure Document Delivery,phishing
-"Welcome to our newsletter! Here are this week's top articles:
-                1. 10 Tips for Better Productivity
-                2. New Product Launch Announcement
-                3. Customer Success Story
-                Unsubscribe anytime by clicking here.",newsletter@company.com,Weekly Newsletter - Week of Jan 15,legitimate
-"Congratulations! You have won $1,000,000 in the Microsoft Lottery!
-                To claim your prize, please provide your banking details and send $500 processing fee.
-                Contact: winner@microsoft-lottery.tk",lottery@microsoft-winner.com,"YOU WON $1,000,000!!!",phishing
-"Welcome to our newsletter! Here are this week's top articles:
-                1. 10 Tips for Better Productivity
-                2. New Product Launch Announcement
-                3. Customer Success Story
-                Unsubscribe anytime by clicking here.",newsletter@company.com,Weekly Newsletter - Week of Jan 15,legitimate
-"Your appointment has been confirmed for January 20th at 2:00 PM.
-                Location: 123 Main Street, Suite 100
-                Please arrive 15 minutes early and bring a valid ID.
-                To reschedule, please call 555-0123.",appointments@clinic.com,Appointment Confirmation,legitimate
-"URGENT: Your PayPal account has been suspended due to suspicious activity. 
-                Please click here immediately to verify your account: http://paypal-verify.tk/login
-                Failure to act within 24 hours will result in permanent account closure.
-                Account Security Team",security@paypal-alerts.com,URGENT: Account Suspended - Immediate Action Required,phishing
-"URGENT: Your PayPal account has been suspended due to suspicious activity. 
-                Please click here immediately to verify your account: http://paypal-verify.tk/login
-                Failure to act within 24 hours will result in permanent account closure.
-                Account Security Team",security@paypal-alerts.com,URGENT: Account Suspended - Immediate Action Required,phishing
-"Your monthly statement is now available online.
-                Login to your account to view your statement.
-                If you have questions, please contact us at 1-800-123-4567.
-                Best regards, Customer Service",statements@bank.com,Monthly Statement Available,legitimate
+email_text,sender,label
+Thank you for your order. Your package will arrive soon.,orders@company.com,legitimate
+Your monthly statement is now available online.,orders@company.com,legitimate
+Meeting scheduled for tomorrow at 2 PM.,orders@company.com,legitimate
+Welcome to our newsletter! Here are this week's updates.,orders@company.com,legitimate
+Your subscription has been renewed successfully.,orders@company.com,legitimate
+Invoice attached for your recent purchase.,orders@company.com,legitimate
+"Your account balance is $1,234.56 as of today.",orders@company.com,legitimate
+Password changed successfully for your account.,orders@company.com,legitimate
+URGENT! Your account suspended. Click here to verify immediately.,security@fake.com,phishing
+"You won $1,000,000! Send processing fee to claim prize.",security@fake.com,phishing
+Your bank account compromised. Update details now.,security@fake.com,phishing
+ALERT: Suspicious activity detected. Verify identity now!,security@fake.com,phishing
+Congratulations! You've been selected for a special offer.,security@fake.com,phishing
+Action required: Confirm your payment information immediately.,security@fake.com,phishing
+FINAL NOTICE: Account will be closed unless you click here.,security@fake.com,phishing
+Security breach detected! Update your password NOW!,security@fake.com,phishing

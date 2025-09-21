@@ -1,0 +1,28 @@
+{
+  "project": "Fraud & Phishing Detection ML System",
+  "created": "2025-09-21T13:03:35.651941",
+  "version": "1.0.0",
+  "status": "Setup Complete",
+  "models": {
+    "url_classifier": "Random Forest - Phishing URL Detection",
+    "email_classifier": "Logistic Regression + TF-IDF - Email Phishing Detection",
+    "transaction_classifier": "Random Forest - Transaction Fraud Detection"
+  },
+  "api_endpoints": [
+    "/health - Check API status",
+    "/api/url-check - Single URL analysis",
+    "/api/email-check - Single email analysis",
+    "/api/transaction-check - Single transaction analysis",
+    "/api/url-check/batch - Batch URL processing"
+  ],
+  "files_created": [
+    "ml_models/saved/models/*.pkl - Trained models",
+    "ml_models/saved/scalers/*.pkl - Feature scalers",
+    "ml_models/saved/vectorizers/*.pkl - Text vectorizers",
+    "ml_models/data/processed/*.csv - Processed datasets",
+    "ml_models/api/endpoints.py - FastAPI application",
+    "start_api.py - API server launcher",
+    "test_api.py - API testing script",
+    "check_models.py - Model status checker"
+  ]
+}
